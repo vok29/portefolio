@@ -1,0 +1,99 @@
+#iframemap
+{
+	width:825px;
+	height:450px;
+}
+
+#imgAthletes {
+  border-radius: 10px;
+  margin-left: -52%;
+  width:400px;
+  height:250px;
+
+}
+
+#textAthletes {
+	padding-left: 35%;
+	padding-right: 5%;
+	margin-top: -13%;
+  text-align : justify;
+}
+
+#imgConception {
+  border-radius: 10px;
+  margin-left: -52%;
+  width:300px;
+  height:340px;
+
+}
+
+#textConception {
+	padding-left: 35%;
+	padding-right: 5%;
+	margin-top: -13%;
+  text-align : justify;
+}
+
+#imgRegle {
+  border-radius: 10px;
+  margin-left: -52%;
+  width:300px;
+  height:340px;
+
+}
+
+#textRegle {
+	padding-left: 35%;
+	padding-right: 5%;
+	margin-top: -13%;
+  text-align : justify;
+
+}
+
+#imgMedia {
+  border-radius: 10px;
+  margin-left: -52%;
+  width:400px;
+  height:250px;
+
+}
+
+#textMedia {
+	padding-left: 35%;
+	padding-right: 5%;
+	margin-top: -13%;
+  text-align : justify;
+}
+
+#imgSondage {
+  border-radius: 10px;
+
+}
+
+.styleLien{
+  margin-left: 50%;
+  font-size: 15px;
+  font-style: italic;
+  text-align : justify;
+}
+
+
+#imgTete {
+  border-radius: 10px;
+  margin-left: -52%;
+  width:400px;
+  height:250px;
+
+}
+
+#textTete {
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-top: -13%;
+  font-size: 15px;
+}
+
+.abaissement
+{
+  margin-top: 15%;
+}

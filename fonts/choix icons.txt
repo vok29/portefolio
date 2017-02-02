@@ -1,0 +1,26 @@
+V	C/C++/JAVA :	fa-code
+V	LINUX -> LDAP,SAMBA,...:		fa-linux
+V	Embarqué -> assembleur :	fa-wrench
+V	Web -> HTML/CSS/JS/PHP :	fa-code-fork    /   fa-html5
+V	DATA BASE -> SQL :	fa-database
+RESEAUX -> CISCO pratice :	fa-sitemap
+	
+
+
+
+
+
+Projets:
+
+web designer controverse Prothèse aux JO , http://zlatan-aux-jo.esy.es/protheseJOSansVideo/
+portfolio
+
+
+
+Work Experience:
+
+Hopitals de morlaix
+Capisen
+bar de nuit
+exploitation agricole
+
