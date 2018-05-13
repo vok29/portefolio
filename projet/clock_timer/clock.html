@@ -1,0 +1,35 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A simple Pomo Timer">
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+  <link href="style.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,400" rel="stylesheet">
+  <title>Timer</title>
+</head>
+
+
+<body>
+  <div class="container">
+
+    <div class="timer">
+      <div class="clock"><span contenteditable="true" id="min">02</span><span>:</span><span contenteditable="true" id="sec">00</span>
+        <div class="indicators">Min&nbsp;&nbsp;:&nbsp;&nbsp;Sec</div>
+      </div>
+
+    </div>
+    <div class="controls">
+      <div class='stBtn'>Start</div>
+      <div class='refresh'>Reset</div>
+    </div>
+    <div class="footer" align="center">Click on the numbers of the timer to edit</div>
+    <div class="footer" align="center">default: 2min, reset: 2min</div>
+    <div class='refresh' href="http://www.pierreyvesmingam.fr">Back</div>
+  </div>
+  <audio id="ado" src="sounds/ticking.mp3" controls="true"></audio>
+  <audio id="ado2" src="sounds/dring.mp3" controls="true"></audio>
+</body>
+</html>
